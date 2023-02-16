@@ -1,2 +1,2 @@
-# SCHRAUSSER-MAT
-Mathematical-Statistical Algorithm Interpreter.
+## SCHRAUSSER-MAT
+Mathematical-statistical algorithm interpreter.
