@@ -1,0 +1,26 @@
+--------------------Configuration: MAT - Win32 Debug--------------------
+Begining build with project "C:\EIGENEDATEIEN\1_LAUFENDES\1_SYSTEM\3_C_PROGRAMME\_MAT_\MAT.dsp", at root.
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/MAT.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Win32 Resource Compiler" with flags "/l 0xc07 /d "_DEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Debug/MAT.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/MAT.pdb" /debug /machine:I386 /out:"Debug/MAT.exe" /pdbtype:sept "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\Users\SCHRAU~1\AppData\Local\Temp\RSP1580.tmp" with contents </nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/MAT.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\EIGENEDATEIEN\1_LAUFENDES\1_SYSTEM\3_C_PROGRAMME\_MAT_\MAT.c"
+>
+Creating command line "cl.exe @C:\Users\SCHRAU~1\AppData\Local\Temp\RSP1580.tmp" 
+Creating temp file "C:\Users\SCHRAU~1\AppData\Local\Temp\RSP1591.tmp" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/MAT.pdb" /debug /machine:I386 /out:"Debug/MAT.exe" /pdbtype:sept 
+.\Debug\MAT.obj>
+Creating command line "link.exe @C:\Users\SCHRAU~1\AppData\Local\Temp\RSP1591.tmp" 
+Compiling...
+MAT.c
+Linking...
+
+
+
+MAT.exe - 0 error(s), 0 warning(s)
