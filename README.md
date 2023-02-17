@@ -21,3 +21,4 @@ Dietmar Schrausser
 
 Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distributions, Permutation Tests, Mathematical Statistics, Asymptotic Statistics, Combinatorics, Functions, Simulation Modeling
 
+https://www.researchgate.net/project/SCHRAUSSER-MAT
