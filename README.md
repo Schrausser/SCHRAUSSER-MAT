@@ -1,6 +1,8 @@
 # SCHRAUSSER-MAT
 ## Mathematical-statistical algorithm interpreter.
 
+![figure.\label{pic1}](pic1.jpg)
+
 SCHRAUSSER-MAT philosophy and vision is to create and, above all, to maintain an optimally relevant and powerful tool for data analysis in the purely scientific and technical area as at universities and research institutes.
 The MAT System is divided into
 1) General mathematical functions, trigonometric functions and statistics
@@ -21,5 +23,45 @@ Dietmar Schrausser
 
 Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distributions, Permutation Tests, Mathematical Statistics, Asymptotic Statistics, Combinatorics, Functions, Simulation Modeling
 
-https://www.researchgate.net/project/SCHRAUSSER-MAT
+
+### Screenshots
+
+
+
+![figure.\label{pic2}](pic2.jpg)
+
+
+
+![figure.\label{pic3}](pic3.jpg)
+
+
+![figure.\label{pic4}](pic4.jpg)
+
+
+![figure.\label{pic5}](pic5.jpg)
+
+
+![figure.\label{pic6}](pic6.jpg)
+
+
+![figure.\label{pic7}](pic7.jpg)
+
+
+![figure.\label{pic8}](pic8.jpg)
+
+
+![figure.\label{pic9}](pic9.jpg)
+
+
+![figure.\label{pic10}](pic10.jpg)
+
+
+
+![figure.\label{pic11}](pic11.jpg)
+
+
+
+![figure.\label{pic12}](pic12.jpg)
+
+
 https://www.academia.edu/81395688
