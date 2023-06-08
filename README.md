@@ -65,3 +65,4 @@ Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distribut
 
 
 https://www.academia.edu/81395688
+https://doi.org/10.13140/RG.2.2.28314.52164
