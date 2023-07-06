@@ -64,5 +64,7 @@ Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distribut
 ![figure.\label{pic12}](pic12.jpg)
 
 
-https://www.academia.edu/81395688
-https://doi.org/10.13140/RG.2.2.28314.52164
+
+Schrausser, D. G. (2022). Mathematical-Statistical Algorithm Interpreter,
+SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
+https://doi.org/doi.org/10.13140/RG.2.2.28314.52164.
