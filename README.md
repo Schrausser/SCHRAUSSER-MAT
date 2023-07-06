@@ -63,7 +63,12 @@ Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distribut
 
 ![figure.\label{pic12}](pic12.jpg)
 
+## References
 
+
+
+Schrausser, D. G. (2022). SCHRAUSSER-MAT. *Code*. ResearchGate.
+https://doi.org/10.13140/RG.2.2.14377.26727.RG.2.2.16344.57600/1.
 
 Schrausser, D. G. (2022). Mathematical-Statistical Algorithm Interpreter,
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
