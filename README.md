@@ -74,3 +74,5 @@ https://doi.org/10.13140/RG.2.2.28314.52164.
 
 ———. (2023). *Schrausser/SCR-CLR7r: SCHRAUSSER-MAT SCR: CLR7r* (version
 v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7647758.
+
+———. (2024). Handbook: Distribution Functions  (Verteilungs Funktionen). PsyArXiv. https://doi.org/10.31234/osf.io/rvzxa
