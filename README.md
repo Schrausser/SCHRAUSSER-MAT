@@ -3,7 +3,7 @@
 
 ![figure.\label{pic1}](pic1.jpg)
 
-SCHRAUSSER-MAT philosophy and vision is to create and, above all, to maintain an optimally relevant and powerful tool for data analysis in the purely scientific and technical area as at universities and research institutes.
+The `SCHRAUSSER-MAT` philosophy and vision is to create and, above all, to maintain an optimally relevant and powerful tool for data analysis in the purely scientific and technical area as at universities and research institutes.
 The MAT System is divided into
 1) General mathematical functions, trigonometric functions and statistics
 2) Linear regression and matrix calculation
@@ -11,7 +11,7 @@ The MAT System is divided into
 4) Probability and combinatorics
 5) Randomization and data simulation models
 
-and should contain the full range of functions corresponding to the always contemporal level of knowledge and development. This is achieved by the fact that, under the supervision of the originator to preserve the concept logic, SCHRAUSSER-MAT is open to anyone in order to expand the functions within the framework of the basic definition. This vision and approach should be retained in the long term and passed on to successors, keeping the concept original and unadulterated:
+and should contain the full range of functions corresponding to the always contemporal level of knowledge and development. This is achieved by the fact that, under the supervision of the originator to preserve the concept logic, `SCHRAUSSER-MAT` is open to anyone in order to expand the functions within the framework of the basic definition. This vision and approach should be retained in the long term and passed on to successors, keeping the concept original and unadulterated:
 So,
 no overgrowth of the system structure as the basic concept in design, ergonomics and functional definition is retained
 and
@@ -66,13 +66,15 @@ Methods: Exact Methods, Bootstrapping, Linear Regression, Probability Distribut
 ## References
 
 Schrausser, D. G. (2022). SCHRAUSSER-MAT. *Code*. ResearchGate.
-https://doi.org/10.13140/RG.2.2.14377.26727
+[https://doi.org/10.13140/RG.2.2.14377.26727](https://doi.org/10.13140/RG.2.2.14377.26727)
 
 ———. (2022). Mathematical-Statistical Algorithm Interpreter,
 SCHRAUSSER-MAT: Function Index, Manual. *Handbooks*. Academia.
-https://doi.org/10.13140/RG.2.2.28314.52164.
+[https://doi.org/10.13140/RG.2.2.28314.52164](https://doi.org/10.13140/RG.2.2.28314.52164)
 
 ———. (2023). *Schrausser/SCR-CLR7r: SCHRAUSSER-MAT SCR: CLR7r* (version
-v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7647758.
+v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7647758](https://doi.org/10.5281/zenodo.7647758)
 
-———. (2024). Handbook: Distribution Functions  (Verteilungs Funktionen). PsyArXiv. https://doi.org/10.31234/osf.io/rvzxa
+———. (2024). Handbook: Distribution Functions  (Verteilungs Funktionen). PsyArXiv. [https://doi.org/10.31234/osf.io/rvzxa](https://doi.org/10.31234/osf.io/rvzxa)
+
+———. (2025). Schrausser/HP_Prime_MATH: 1.5. *Zenodo. January 2025*. [https://doi.org/10.5281/zenodo.14721085](https://doi.org/10.5281/zenodo.14721085)
