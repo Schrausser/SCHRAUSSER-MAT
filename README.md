@@ -1,5 +1,5 @@
 # SCHRAUSSER-MAT
-## Mathematical-statistical algorithm interpreter.
+## Mathematical-statistical algorithm interpreter
 
 ![figure.\label{pic1}](pic1.jpg)
 
